@@ -40,7 +40,7 @@ The M3 nuts on
 
 All STL files were created and designed with Tinkercad https://www.tinkercad.com
 
-Printer settings used on my Anycubic Vyper (Thank you **Martin**!): 
+Printer settings used on my Anycubic Vyper (Thank you **https://github.com/m-holler**!): 
 - 0.4mm nozzle
 - Layer height 0.15mm
 - PLA+ silk filament
