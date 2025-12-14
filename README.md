@@ -1,5 +1,5 @@
 # HPProBook450G10HighStand
-A DIY stand for HP ProBook 450 G10 notebook, which was built from [3d prints](#STL) and some metal parts from a hardware store. The high side of the stand is 13cm high (With rubber feet attached to the bottom) and lifts my notebook display to the same level as my external monitors.
+A DIY stand for a HP ProBook 450 G10 notebook, which was built from [3d prints](#STL) and some metal parts from a hardware store. The high side of the stand is 13cm high (With rubber feet attached to the bottom) and lifts my notebook display to the same level as my external monitors.
 
 ![Front view](assets/images/HPProBook450G10HighStand.jpg)
 
