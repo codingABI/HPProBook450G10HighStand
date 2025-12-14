@@ -26,7 +26,7 @@ My [3d STL print files](#STL) are licensed under the terms of CC0 [Copyright (c)
 
 I used brass tubes with a length of 26cm, but you can use other lengths. The threaded rods are sticked in the brass tubes. 
 
-If the threaded rods do not fit through the holes in the 3d printed side parts, the holes should be re-drilled with a 3.0 mm drill bit.
+If the threaded rods do not fit through the holes in the 3d printed side parts, the printed holes should be re-drilled with a 3.0 mm drill bit.
 
 The M3 nuts on
 - the left side will be pressed in the place holders of the [3d left side print](STL/HPProBook450G10HighStandLeftSide.stl) ![Nut in left side](assets/images/NutInLeftSide.jpg)
