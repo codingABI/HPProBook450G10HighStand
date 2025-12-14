@@ -7,7 +7,7 @@ A DIY stand for HP ProBook 450 G10 notebook, which was built from [3d prints](#S
 
 ![Right side](assets/images/RightSide.jpg)
 
-| Proberty  | Value | Note |
+| Property  | Value | Note |
 | ------------- | ------------- | ------------- |
 | Height  | 13cm  | |
 | Width  | 28.4cm  | Could be changed with different [metal parts](#metal-parts) |
