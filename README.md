@@ -8,7 +8,8 @@ A DIY stand for HP ProBook 450 G10 notebook, which was built from [3d prints](#S
 ![Right side](assets/images/RightSide.jpg)
 
 - Height: 13cm
-- Width: 28.4cm (could be changed with different [metal parts](#metal-parts))
+- Deepth: 22.1cm
+- Width: 28.4cm (Could be changed with different [metal parts](#metal-parts))
 - Weight: 225g (3d PLA prints ~156g)
 
 ## License and copyright
